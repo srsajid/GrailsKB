@@ -6,7 +6,6 @@
 # to generate your .gitignore file.
 /out
 *.iml
-/logs
 /.idea
 /.slcache
 /target
